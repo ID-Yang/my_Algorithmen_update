@@ -37,4 +37,4 @@
 _dic 就是存储缓存节点的hash结构  
 _head 指向链表的头部，_tail指向链表的尾部，组成一个队列结构
 
-
+algorithmen the 4th edition 
